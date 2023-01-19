@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dioxxx
 - 👀 Je suis intéréssé par le développement informatique
 - 🌱 J'essaye d'apprendre le Java 
-- 💼 Je suis en ce moment sur le projet d'un serveur Minecraft nommé SnowMC
+- 💼 Je suis en ce moment sur le projet d'un serveur Minecraft nommé Lunazia
